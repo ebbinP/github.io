@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>HTML Webpage</title>
+<title>MIT app invcentor</title>
 </head>
 <body>
 
 <h1>HTML webpage</h1>
-<p>During this project. We made a webpage about what we wanted our future careers and the colleges we wanted to go to, to get the education to do them.</p>
+<p>In the application which I developed, there is cat sprite which the user can drag around, and there is a meteor sprite which falls, and there is a locked in place catbed sprite. The users goal is to get the cat image to touch the catbed sprite, while avoiding the meteor sprite.  If the cat sprite touches the meteor before it touches the cat bed sprite, or the meteor touches the cat bed before the cat does, the win_lose label changes to lose, if the cat sprite touches the cat bed sprite the win_lose label changes to win.The user can press the reset button to reset the location, of the images, and the win lose label.
+</p>
 
 </body>
 </html>
